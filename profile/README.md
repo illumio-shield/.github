@@ -13,6 +13,12 @@ In addition, community support may be available through the [Illumio Community P
 > [!IMPORTANT]
 > Please redact any sensitive information from bug reports or log traces, since Issues and Pull Requests may be publicly visible.​  
 
+## Contributing
+
+Users are encouraged to contribute suggestions or content to any of the Illumio Shield repositories. Any and all contributions are appreciated!  
+
+See the [Contributing](/../main/.github/CONTRIBUTING.md) document for details.  
+
 ## Contact
 
 For issues or questions that cannot be submitted via GitHub Issues, please send an email to the [Illumio App Integrations Team](mailto:app-integrations@illumio.com) with the name of the repository in the subject line.​ Please refer to our [Vulnerability Disclosure](/../main/.github/SECURITY.md) for information on reporting security vulnerabilities in Illumio Shield repositories.  
