@@ -1,16 +1,20 @@
-# Illumio Community Contribution Guidelines  
+# Illumio Cybersecurity Platform Contribution Guidelines  
 
-Contributing new content or modifying existing content allows Illumio users and enthusiasts to share their work with the community. Note that all Community content is NOT supported under Illumio Support SLAs, and users seeking support should submit a GitHub issue. Questions can also be posted on the Illumio Community Forum. Contact information may also be provided by the project authors.  
+Welcome to the Illumio GitHub community! This is a collaborative space for contributors who are interested in maximizing the utilization of Illumio’s cybersecurity zero trust platform through shared software and solutions. Here, you can contribute to software that leverages Illumio APIs to drive zero trust segmentation policies.  
  
 ## How to Contribute
 
-Create a fork of the relevant repository and follow any specific contributing guidelines defined. A member of the Illumio Maintainers team will review any submitted pull requests.  
+To contribute to an Illumio Community repository, follow the steps below:
 
-Make sure to include a description of your contribution, what it fixes or adds to the project, along with some example code if relevant to the submission. Specify the compatible versions of the Illumio and partner platforms the submission was validated against.    
- 
+1. **Fork the repository:** Create a fork of the relevant repository to work on. Follow branching convention for the repository and make sure to keep your fork in sync with the upstream.  
+2. **Follow repository-specific guidelines:** Each repository may have its own set of contributing guidelines. Make sure to follow them when submitting your contribution.  
+3. **Open a pull request:** Make sure to include a description of your contribution, what it fixes or adds to the project, along with some example code if relevant to the submission. Specify the compatible versions of the Illumio and partner platforms the submission was validated against.  
+
 The project maintainers will review the pull request, and may ask questions or request changes. Any submission will need to pass project-specific checks and GitHub static analysis/secret detection. If there are no issues, the code will be merged and published in the next release.  
 
 > [!IMPORTANT]
-> * The project maintainers will do their best to respond promptly, but Community projects do not provide a guarantee of support.
-> * Illumio reserves the right to remove or reject any Community content without notice.
+> * **Moderator response time:** The project maintainers will do their best to respond promptly, but Community projects do not provide a guarantee of support.  
+> * **Content removal:** Illumio reserves the right to remove or reject any Community content without notice.  
+> * **Seeking help:** If you need help, submit a GitHub issue to the relevant repository or post your questions on the [Illumio Community Forum](https://community.illumio.com/s/).  
 
+Thank you for being a part of our community and contributing to the growth of Illumio’s cybersecurity platform. We look forward to seeing your contributions!  
