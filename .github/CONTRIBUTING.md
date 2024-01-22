@@ -1,10 +1,10 @@
 # Illumio Cybersecurity Platform Contribution Guidelines  
 
-Welcome to the Illumio GitHub community! This is a collaborative space for contributors who are interested in maximizing the utilization of Illumio’s cybersecurity zero trust platform through shared software and solutions. Here, you can contribute to software that leverages Illumio APIs to drive zero trust segmentation policies.  
- 
-## How to Contribute
+Welcome to the Illumio GitHub community! This is a collaborative space for contributors who are interested in maximizing the utilization of Illumio’s cybersecurity zero trust platform through shared software and solutions. Here, you can contribute to software that leverages Illumio APIs to drive zero trust segmentation policies. Please note that any software posted by community members is not supported by Illumio. The responsibility for any contributions lies solely with the person or people posting it.  
 
-To contribute to an Illumio Community repository, follow the steps below:
+## How to Contribute  
+
+To contribute to an Illumio Community repository, follow the steps below:  
 
 1. **Fork the repository:** Create a fork of the relevant repository to work on. Follow branching convention for the repository and make sure to keep your fork in sync with the upstream.  
 2. **Follow repository-specific guidelines:** Each repository may have its own set of contributing guidelines. Make sure to follow them when submitting your contribution.  
